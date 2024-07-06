@@ -1,6 +1,6 @@
 # Análisis de Clientes del Centro Comercial
 
-![Análisis de Clientes](img/customer_segmentation.jpg)
+<img src="img/customer_segmentation.jpg" alt="Análisis de Clientes" style="width:400px;"/>
 
 Este repositorio contiene varios algoritmos para analizar un dataset de clientes de un centro comercial. Los análisis incluyen la compresión y preparación de datos, minería predictiva, estadísticas descriptivas, clustering utilizando K-Means, agrupación jerárquica y árboles de decisión en Machine Learning. Los scripts están en formato Jupyter Notebook (.ipynb).
 
