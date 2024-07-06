@@ -89,14 +89,14 @@ Fuente de datos: [Mall_Customer.xlsx](https://github.com/JaviBrenes/DataMing_Pro
 ### Minería Predictiva
 
 
-1. **Cargar los Datos**: Conexión a la base de datos SQLite.
+1. **Cargar los Datos**: Conexión a la base de datos SQLite([Mall_Customer.db](https://github.com/JaviBrenes/DataMing_Project/blob/main/Dataset/Mall_Customer.db)).
 2. **Agrupación y Predicción**: Agrupación por categorías de edad y predicción de ingresos anuales para 2025.
 3. **Predicción de Puntuación de Gasto**: Análisis de la puntuación de gasto actual y predicha por género.
 
 ### Estadística Descriptiva
 
 
-1. **Cargar Datos**: Conexión a la base de datos SQLite.
+1. **Cargar Datos**: Conexión a la base de datos SQLite([Mall_Customer.db](https://github.com/JaviBrenes/DataMing_Project/blob/main/Dataset/Mall_Customer.db)).
 2. **Análisis por Grupo de Edad**: Análisis estadístico descriptivo para diferentes grupos de edad (Jóvenes, Adultos, Adultos Mayores).
 
 ### K-Means en Machine Learning
