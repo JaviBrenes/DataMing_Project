@@ -4,6 +4,47 @@
 
 Este repositorio contiene varios algoritmos para analizar un dataset de clientes de un centro comercial. Los análisis incluyen la compresión y preparación de datos, minería predictiva, estadísticas descriptivas, clustering utilizando K-Means, agrupación jerárquica y árboles de decisión en Machine Learning. Los scripts están en formato Jupyter Notebook (.ipynb).
 
+## Requisitos
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SQLite
+- Jupyter Notebook
+
+## Instrucciones de Uso
+
+1. Clona este repositorio: 
+    ```bash
+    git clone https://github.com/JaviBrenes/dataset.git
+    ```
+2. Navega al directorio del proyecto:
+    ```bash
+    cd dataset
+    ```
+3. Abre los Jupyter Notebooks para ejecutar los análisis:
+    ```bash
+    jupyter notebook
+    ```
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio importante antes de realizarlo.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
+
+---
+
+### Autor
+
+Francisco Javier Brenes
+
+
+
 ## Contenido
 
 1. [Compresión de los Datos](Compresión%20de%20los%20Datos.ipynb)
