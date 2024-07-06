@@ -67,7 +67,7 @@ El dataset utilizado en este proyecto se titula **Mall Customer**. Este conjunto
 
 El objetivo del análisis realizado con este dataset es identificar patrones en el comportamiento de gasto de los clientes mediante técnicas de agrupación jerárquica y árboles de decisión, así como analizar la distribución demográfica y su impacto en el comportamiento de compra.
 
-Fuente de datos: [Mall_Customer.xlsx](https://github.com/JaviBrenes/DataMing_Project/blob/main/Mall_Customer.xlsx)
+Fuente de datos: [Mall_Customer.xlsx](https://github.com/JaviBrenes/DataMing_Project/blob/main/Dataset/Mall_Customer.xlsx)
 
 
 ## Algoritmos
