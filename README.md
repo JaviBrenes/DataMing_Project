@@ -14,6 +14,20 @@ Este repositorio contiene varios algoritmos para analizar un dataset de clientes
 6. [Agrupación de Jerarquía en Machine Learning](Agrupación%20de%20Jerarquia%20en%20Machine%20Learning.ipynb)
 7. [Árbol de Decisión en Machine Learning](Arbol%20decision%20Machine%20Learning.ipynb)
 
+### Descripción del Dataset
+
+El dataset utilizado en este proyecto se titula **Mall Customer**. Este conjunto de datos proporciona información sobre clientes de un centro comercial, incluyendo características demográficas y variables relacionadas con el comportamiento de compra. A continuación se detallan las columnas principales del dataset:
+
+- **Gender**: Género del cliente (Male/Female).
+- **Age**: Edad del cliente.
+- **Annual Income (k$)**: Ingreso anual del cliente en miles de dólares.
+- **Spending Score (1-100)**: Puntuación asignada por el centro comercial basada en el comportamiento del cliente y el gasto.
+
+El objetivo del análisis realizado con este dataset es identificar patrones en el comportamiento de gasto de los clientes mediante técnicas de agrupación jerárquica y árboles de decisión, así como analizar la distribución demográfica y su impacto en el comportamiento de compra.
+
+Fuente de datos: [Mall_Customer.xlsx](https://github.com/JaviBrenes/DataMing_Project/blob/main/Mall_Customer.xlsx)
+
+
 ## Algoritmos
 
 ### Compresión de los Datos
