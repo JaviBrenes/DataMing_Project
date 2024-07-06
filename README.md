@@ -13,16 +13,17 @@ Este repositorio contiene varios algoritmos para analizar un dataset de clientes
 - Scikit-learn
 - SQLite
 - Jupyter Notebook
+- Google Colab
 
 ## Instrucciones de Uso
 
 1. Clona este repositorio: 
     ```bash
-    git clone https://github.com/JaviBrenes/dataset.git
+   git clone https://github.com/JaviBrenes/DataMing_Project.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd dataset
+    cd DataMing_Project
     ```
 3. Abre los Jupyter Notebooks para ejecutar los análisis:
     ```bash
